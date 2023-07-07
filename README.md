@@ -1,4 +1,7 @@
 # Prison-Database
+It’s used to simulate the prison database.
+It has all the data about each prisoner as medical state , Crime state , social state etc…
+
 --Create table prisoner (
 --Prisoner_ID int not null primary key,
 --Prisoner_Fname varchar(30) ,
